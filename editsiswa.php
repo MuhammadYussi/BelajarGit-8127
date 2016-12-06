@@ -1,6 +1,10 @@
 <?php 
+<<<<<<< HEAD
 
 //komentar dari client
+=======
+//komentar dari server
+>>>>>>> 8f23ed42b6b50f5698bfd1312317235d2d1e0d7c
 //(.)(.)
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
